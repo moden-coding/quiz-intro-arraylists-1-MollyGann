@@ -14,7 +14,7 @@ public class App {
         list.add("Python");
         list.add("JavaScript");
         for(int namenumber = 0; namenumber < list.size(); namenumber++) {
-        System.out.println(list.get(namenumber));
-    }
+            System.out.println(list.get(namenumber));
+        }
     }
 }
